@@ -1,9 +1,9 @@
 # Deep Q-network in PyTorch
 
-## To Train the Agent
+## To Train dqn Agent
 <pre>
 python main.py
-</py>
+</pre>
 
 ## To test trained agent
 <pre>
